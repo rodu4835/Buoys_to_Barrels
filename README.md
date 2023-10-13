@@ -18,5 +18,5 @@ This repository contains the project for the 4122 Information Visualization clas
 
 ## Author
 
-[Your Name]
+Ronald Durham
 
